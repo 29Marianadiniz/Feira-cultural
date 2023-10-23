@@ -65,6 +65,7 @@ body {
 
 .container__caixa {
     margin: 0 6em;
+    text-align: center;
 }
 
 .secundario__imagem {
