@@ -31,8 +31,7 @@ body {
 .container {
     height: 100vh;
     display: grid;
-    grid-template-columns:
-}
+    text-align: center;}
 
 .container__botao {
     background-color: var(--botao-azul);
